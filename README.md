@@ -1,6 +1,14 @@
 # AutoCorrect AI
 
-Système automatisé d'analyse et de correction de copies d'examen manuscrites, destiné aux enseignants.
+## Description du Projet (Sujet)
+Le projet **AutoCorrect AI** a pour objectif de soulager la charge de travail des enseignants en automatisant le processus fastidieux de correction des copies d'examen manuscrites. 
+
+Grâce aux technologies d'intelligence artificielle, le système est capable de :
+1. **Lire l'écriture manuscrite** via des moteurs d'OCR avancés (Tesseract, EasyOCR).
+2. **Analyser et évaluer les réponses** en utilisant l'approche RAG (Retrieval-Augmented Generation) couplée à des modèles de langage de pointe (GPT-4o / LangChain), ce qui permet de comparer les réponses des étudiants à un corrigé de référence.
+3. **Fournir une interface de gestion** complète : un tableau de bord pour l'enseignant (pour téléverser les sujets, les copies et suivre les statistiques de correction) et un espace pour l'étudiant (pour consulter ses résultats et les annotations sur ses copies).
+
+En résumé, ce système vise à numériser, accélérer et standardiser la correction des examens tout en réduisant le risque d'erreur humaine.
 
 ## Fonctionnalités
 - Upload de copies scannées
