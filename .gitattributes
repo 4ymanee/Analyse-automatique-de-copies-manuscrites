@@ -1,0 +1,3 @@
+frontend/package-lock.json linguist-generated=true
+frontend/public/* linguist-vendored=true
+frontend/assets/* linguist-vendored=true
